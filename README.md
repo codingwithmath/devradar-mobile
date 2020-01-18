@@ -14,8 +14,10 @@ DevRadar
   </a>
 </p>
 
-![DevRadar](Demo/1.gif)
-![DevRadar](Demo/2.gif)
+<div>
+  <img src="https://ibb.co/1btv0rR" alt="demo" height="425">
+  <img src="https://ibb.co/jZNtvkz" alt="demo" height="425">
+</div>
 
 <hr />
 
