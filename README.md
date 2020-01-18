@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-  <img src="https://rocketseat.gallerycdn.vsassets.io/extensions/rocketseat/rocketseatreactnative/2.2.0/1557162274650/Microsoft.VisualStudio.Services.Icons.Default" alt="DevRadar" width="120">
+  <img src="https://rocketseat.gallerycdn.vsassets.io/extensions/rocketseat/rocketseatreactnative/2.2.0/1557162274650/Microsoft.VisualStudio.Services.Icons.Default" alt="DevRadar" width="60">
 <br>
 <br>
 DevRadar
